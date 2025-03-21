@@ -41,8 +41,6 @@ Key objectives include:
 - **Visualizing Images**: Random samples from each class.  
 - **Checking Image Dimensions**: Ensuring consistency in data preprocessing.  
 - **Detecting Corrupt Images**: Identifying and removing problematic samples.  
-- **Pixel Distribution Analysis**: Understanding intensity variations.  
-- **Comparing Patterns Between Classes**: Detecting visual differences between tumor and non-tumor images.  
 
 ---
 
